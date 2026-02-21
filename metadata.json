@@ -1,0 +1,8 @@
+{
+  "name": "ConceptShip",
+  "description": "A neuro-adaptive gamified learning platform that evolves with your focus and energy.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
